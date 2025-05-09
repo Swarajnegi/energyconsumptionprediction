@@ -8,7 +8,7 @@ if defined _OLD_CODEPAGE (
     "%SystemRoot%\System32\chcp.com" 65001 > nul
 )
 
-set VIRTUAL_ENV=E:\Program Files (x86)\ML Project\Machine-Learning-to-Predict-Energy-Consumption\enerenv
+set VIRTUAL_ENV=E:\Program Files (x86)\ML Project\energyconsumptionprediction\enerenv
 
 if not defined PROMPT set PROMPT=$P$G
 
